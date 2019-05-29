@@ -1,3 +1,3 @@
-it's food project! 
+it's food project
 =================
 READ ME FILE
